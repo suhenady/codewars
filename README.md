@@ -1,2 +1,2 @@
 # codewars
-Solutions to my codewars challenges. 
+Solutions and descriptions to my codewars challenges. 
